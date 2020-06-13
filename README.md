@@ -8,3 +8,7 @@
 2. Next `streamlit run {your_file.py}`
 
 then open [localhost:8501](http://localhost:8501) in your browser.
+
+---
+
+![](https://i.imgur.com/u3NDCyQ.png)
