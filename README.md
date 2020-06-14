@@ -4,7 +4,7 @@
 
 ### Run the analysis script
 
-Run `dc run --service-ports streamlit streamlit run {your_report}.py`
+Run `docker-compose run --service-ports streamlit streamlit run {your_report}.py`
 
 then open [localhost:8501](http://localhost:8501) in your browser.
 
