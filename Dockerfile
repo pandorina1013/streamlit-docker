@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM kaggle/python:latest
 
 EXPOSE 8501
 
